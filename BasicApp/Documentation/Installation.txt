@@ -1,0 +1,21 @@
+# Installing the Front End React Application :
+
+Requirements :
+1. Latest version of Node.js and npm.
+
+
+Installation steps: 
+
+1. cd /productinfo
+2. npm install
+3. npm start
+
+
+#Installing the Back End Django Application:
+
+Requirements:
+1. Django Version : 1.11 and Python : 3.5
+
+Installation Steps:
+
+1. cd 

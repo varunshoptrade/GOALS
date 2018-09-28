@@ -1,0 +1,13 @@
+<h1> Welcome to Shopify </h1>
+
+<h2> Plesae Login </h2>
+
+<form action="{% url "authenticate" %}" method="post">{% csrf_token %}
+  <label for='shop'><strong>The URL of the Shop</strong>
+    <span class="hint">(or just the subdomain if it&rsquo;s at myshopify.com)</span>
+  </label>
+  <p>
+    <input id="shop" name="shop" size="45" type="text" />
+    <input name="commit" type="submit" value="Install" />
+  </p>
+</form>

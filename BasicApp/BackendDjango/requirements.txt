@@ -1,0 +1,12 @@
+List of Requirements for this App:
+
+[]1. This must be a Django Project. Python : 3.5 Django Version : 1.11
+[]2. The app must have an Authentication Module for authenticating with Shopify.
+[]3. The Application must have an App that provides Restful APIs for the following :
+	[]a. Creating a new Product.
+	[]b. Editing an existing Product.
+	[]c. Deleting an existing Product.
+	[]d. Searching for an existing Product.
+	[]e. Providing a list of all Products.
+[]4. Host the server on Localhost.
+

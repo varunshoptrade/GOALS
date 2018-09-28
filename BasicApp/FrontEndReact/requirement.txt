@@ -1,0 +1,11 @@
+List of Requirements.
+
+[]1. The Front End application must be built using ReactJS and Polaris. RJS Version : 16.5.0
+[]2. The Front end would be built using a single page divided into multiple components :
+	[]a. App [Parent of All Components]
+	[]b. ProductsPage
+	[]c. Product
+	[]d. ProductForm
+	[]e. Products
+	This may change as needed.
+[]3. The app would be hosted on a Localhost.
